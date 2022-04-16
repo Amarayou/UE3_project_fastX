@@ -1,0 +1,13 @@
+species;gene;type;values;conf_int_min;conf_int_max
+Lathyrus pratensis;A;alpha;0,182511;0,0303345;0,351246
+Lathyrus pratensis;A;omega_a;0,045969;0,00764;0,088468
+Lathyrus pratensis;A;omega_na;0,205901;0,163402;0,24423
+Lathyrus pratensis;X;alpha;0,601826;0,404257;0,830453
+Lathyrus pratensis;X;omega_a;0,110135;0,0739795;0,151974
+Lathyrus pratensis;X;omega_na;0,0728662;0,0310273;0,109022
+Vicia cracca;A;alpha;0,175402;-0,0293604;0,412655
+Vicia cracca;A;omega_a;0,0453981;-0,007599;0,106805
+Vicia cracca;A;omega_na;0,213425;0,152018;0,266422
+Vicia cracca;X;alpha;0,569457;0,274727;0,936765
+Vicia cracca;X;omega_a;0,089618;0,043235;0,147423
+Vicia cracca;X;omega_na;0,0677566;0,00995166;0,11414
